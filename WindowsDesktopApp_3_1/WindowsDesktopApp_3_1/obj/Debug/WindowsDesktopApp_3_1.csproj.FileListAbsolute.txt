@@ -1,0 +1,10 @@
+C:\Users\laiii\source\repos\WindowsDesktopApp_3_1\WindowsDesktopApp_3_1\bin\Debug\WindowsDesktopApp_3_1.exe.config
+C:\Users\laiii\source\repos\WindowsDesktopApp_3_1\WindowsDesktopApp_3_1\bin\Debug\WindowsDesktopApp_3_1.exe
+C:\Users\laiii\source\repos\WindowsDesktopApp_3_1\WindowsDesktopApp_3_1\bin\Debug\WindowsDesktopApp_3_1.pdb
+C:\Users\laiii\source\repos\WindowsDesktopApp_3_1\WindowsDesktopApp_3_1\obj\Debug\WindowsDesktopApp_3_1.csprojAssemblyReference.cache
+C:\Users\laiii\source\repos\WindowsDesktopApp_3_1\WindowsDesktopApp_3_1\obj\Debug\WindowsDesktopApp_3_1.Form1.resources
+C:\Users\laiii\source\repos\WindowsDesktopApp_3_1\WindowsDesktopApp_3_1\obj\Debug\WindowsDesktopApp_3_1.Properties.Resources.resources
+C:\Users\laiii\source\repos\WindowsDesktopApp_3_1\WindowsDesktopApp_3_1\obj\Debug\WindowsDesktopApp_3_1.csproj.GenerateResource.cache
+C:\Users\laiii\source\repos\WindowsDesktopApp_3_1\WindowsDesktopApp_3_1\obj\Debug\WindowsDesktopApp_3_1.csproj.CoreCompileInputs.cache
+C:\Users\laiii\source\repos\WindowsDesktopApp_3_1\WindowsDesktopApp_3_1\obj\Debug\WindowsDesktopApp_3_1.exe
+C:\Users\laiii\source\repos\WindowsDesktopApp_3_1\WindowsDesktopApp_3_1\obj\Debug\WindowsDesktopApp_3_1.pdb

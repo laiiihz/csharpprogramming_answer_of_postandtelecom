@@ -1,0 +1,11 @@
+C:\Users\laihz\source\repos\windowsConsoleApp3\bin\Debug\netcoreapp2.1\windowsConsoleApp2_3.deps.json
+C:\Users\laihz\source\repos\windowsConsoleApp3\bin\Debug\netcoreapp2.1\windowsConsoleApp2_3.runtimeconfig.json
+C:\Users\laihz\source\repos\windowsConsoleApp3\bin\Debug\netcoreapp2.1\windowsConsoleApp2_3.runtimeconfig.dev.json
+C:\Users\laihz\source\repos\windowsConsoleApp3\bin\Debug\netcoreapp2.1\windowsConsoleApp2_3.dll
+C:\Users\laihz\source\repos\windowsConsoleApp3\bin\Debug\netcoreapp2.1\windowsConsoleApp2_3.pdb
+C:\Users\laihz\source\repos\windowsConsoleApp3\obj\Debug\netcoreapp2.1\windowsConsoleApp2_3.csprojAssemblyReference.cache
+C:\Users\laihz\source\repos\windowsConsoleApp3\obj\Debug\netcoreapp2.1\windowsConsoleApp2_3.csproj.CoreCompileInputs.cache
+C:\Users\laihz\source\repos\windowsConsoleApp3\obj\Debug\netcoreapp2.1\windowsConsoleApp2_3.AssemblyInfoInputs.cache
+C:\Users\laihz\source\repos\windowsConsoleApp3\obj\Debug\netcoreapp2.1\windowsConsoleApp2_3.AssemblyInfo.cs
+C:\Users\laihz\source\repos\windowsConsoleApp3\obj\Debug\netcoreapp2.1\windowsConsoleApp2_3.dll
+C:\Users\laihz\source\repos\windowsConsoleApp3\obj\Debug\netcoreapp2.1\windowsConsoleApp2_3.pdb

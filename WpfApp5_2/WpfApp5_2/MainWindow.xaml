@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfApp5_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp5_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="ClicksCounter" HorizontalAlignment="Left" Margin="404,110,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click"/>
+        <Button Content="MoveTesing" HorizontalAlignment="Left" Margin="404,165,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click_1"/>
+        <Button Content="ColorTesting" HorizontalAlignment="Left" Margin="404,221,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>

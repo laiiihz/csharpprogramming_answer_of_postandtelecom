@@ -1,0 +1,10 @@
+C:\Users\laiii\source\repos\WindowsDesktopApp_1\WindowsDesktopApp2\bin\Debug\WindowsDesktopApp2.exe.config
+C:\Users\laiii\source\repos\WindowsDesktopApp_1\WindowsDesktopApp2\bin\Debug\WindowsDesktopApp2.exe
+C:\Users\laiii\source\repos\WindowsDesktopApp_1\WindowsDesktopApp2\bin\Debug\WindowsDesktopApp2.pdb
+C:\Users\laiii\source\repos\WindowsDesktopApp_1\WindowsDesktopApp2\obj\Debug\WindowsDesktopApp2.csprojAssemblyReference.cache
+C:\Users\laiii\source\repos\WindowsDesktopApp_1\WindowsDesktopApp2\obj\Debug\WindowsDesktopApp2.Form1.resources
+C:\Users\laiii\source\repos\WindowsDesktopApp_1\WindowsDesktopApp2\obj\Debug\WindowsDesktopApp2.Properties.Resources.resources
+C:\Users\laiii\source\repos\WindowsDesktopApp_1\WindowsDesktopApp2\obj\Debug\WindowsDesktopApp2.csproj.GenerateResource.cache
+C:\Users\laiii\source\repos\WindowsDesktopApp_1\WindowsDesktopApp2\obj\Debug\WindowsDesktopApp2.csproj.CoreCompileInputs.cache
+C:\Users\laiii\source\repos\WindowsDesktopApp_1\WindowsDesktopApp2\obj\Debug\WindowsDesktopApp2.exe
+C:\Users\laiii\source\repos\WindowsDesktopApp_1\WindowsDesktopApp2\obj\Debug\WindowsDesktopApp2.pdb

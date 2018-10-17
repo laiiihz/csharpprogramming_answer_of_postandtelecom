@@ -1,0 +1,10 @@
+C:\Users\laihz\source\repos\WindowsDesktopApp4_2\WindowsDesktopApp4_2\bin\Debug\WindowsDesktopApp4_2.exe.config
+C:\Users\laihz\source\repos\WindowsDesktopApp4_2\WindowsDesktopApp4_2\bin\Debug\WindowsDesktopApp4_2.exe
+C:\Users\laihz\source\repos\WindowsDesktopApp4_2\WindowsDesktopApp4_2\bin\Debug\WindowsDesktopApp4_2.pdb
+C:\Users\laihz\source\repos\WindowsDesktopApp4_2\WindowsDesktopApp4_2\obj\Debug\WindowsDesktopApp4_2.csprojAssemblyReference.cache
+C:\Users\laihz\source\repos\WindowsDesktopApp4_2\WindowsDesktopApp4_2\obj\Debug\WindowsDesktopApp4_2.Form1.resources
+C:\Users\laihz\source\repos\WindowsDesktopApp4_2\WindowsDesktopApp4_2\obj\Debug\WindowsDesktopApp4_2.Properties.Resources.resources
+C:\Users\laihz\source\repos\WindowsDesktopApp4_2\WindowsDesktopApp4_2\obj\Debug\WindowsDesktopApp4_2.csproj.GenerateResource.cache
+C:\Users\laihz\source\repos\WindowsDesktopApp4_2\WindowsDesktopApp4_2\obj\Debug\WindowsDesktopApp4_2.csproj.CoreCompileInputs.cache
+C:\Users\laihz\source\repos\WindowsDesktopApp4_2\WindowsDesktopApp4_2\obj\Debug\WindowsDesktopApp4_2.exe
+C:\Users\laihz\source\repos\WindowsDesktopApp4_2\WindowsDesktopApp4_2\obj\Debug\WindowsDesktopApp4_2.pdb
