@@ -1,6 +1,13 @@
 # csharpprogramming_answer_of_postandtelecom
 c#程序设计教程（第三版）答案 (人民邮电出版社)
 
+## 食用方法
+### 点击右上角Clone and Download按钮
+![](https://github.com/laiiihz/csharpprogramming_answer_of_postandtelecom/blob/master/download.png)
+打开你所需要的答案所在的文件夹，打开*.csproj文件
+
+> 在打开项目前请确保安装了VisualStudio 2017并安装相关工具
+-----
 
 ### 第一章和第二章答案
 #### [A2.1](https://github.com/laiiihz/csharpprogramming_answer_of_postandtelecom/tree/master/2_1)
