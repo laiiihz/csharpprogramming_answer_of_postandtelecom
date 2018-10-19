@@ -54,6 +54,24 @@ namespace App7_1
             text_min.DataContext = d;
             text_avr.DataContext = d;
             text_max.DataContext = d;
+
+            if (d.max > 255)
+            {
+                rc_max.Stroke = new SolidColorBrush(Color.FromRgb(255, 0, 0));
+            }
+            else rc_max.Stroke = new SolidColorBrush(Color.FromRgb(0, 0, 0));
+
+            if (d.min > 255)
+            {
+                rc_min.Stroke = new SolidColorBrush(Color.FromRgb(255, 0, 0));
+            }
+            else rc_min.Stroke = new SolidColorBrush(Color.FromRgb(0, 0, 0));
+
+            if (d.avr > 255)
+            {
+                rc_avr.Stroke = new SolidColorBrush(Color.FromRgb(255, 0, 0));
+            }
+            else rc_avr.Stroke = new SolidColorBrush(Color.FromRgb(0, 0, 0));
         }
     }
 }

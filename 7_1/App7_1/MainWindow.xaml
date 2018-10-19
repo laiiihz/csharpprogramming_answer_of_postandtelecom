@@ -7,20 +7,23 @@
         mc:Ignorable="d"
         Title="数据验证练习" Height="450" Width="877.253">
     <Grid>
+        <Rectangle x:Name="rc_min" HorizontalAlignment="Left" Height="32" Margin="118,309,0,0" Stroke="White" VerticalAlignment="Top" Width="71"/>
+
+        <Rectangle x:Name="rc_avr" HorizontalAlignment="Left" Height="32" Margin="271,309,0,0" Stroke="White" VerticalAlignment="Top" Width="70"/>
+
+        <Rectangle x:Name="rc_max" HorizontalAlignment="Left" Height="32" Margin="521,309,0,0" Stroke="White" VerticalAlignment="Top" Width="61"/>
         <Button Content="单击产生20个随机数" HorizontalAlignment="Left" Margin="71,68,0,0" VerticalAlignment="Top" Width="193" Height="51" FontSize="18" Click="Button_Click"/>
         <TextBlock HorizontalAlignment="Left" Margin="71,141,0,0" TextWrapping="Wrap" Text="20个·随机数如下" VerticalAlignment="Top" Height="31" Width="193" FontSize="16"/>
         <TextBlock x:Name="Text1" HorizontalAlignment="Left" Margin="71,177,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="71" Width="626" FontSize="14"/>
         <TextBlock HorizontalAlignment="Left" Margin="71,314,0,0" TextWrapping="Wrap" Text="最小值" VerticalAlignment="Top" Height="27" Width="56" FontSize="16"/>
-        <TextBlock x:Name="text_min" HorizontalAlignment="Left" Margin="132,314,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="27" FontSize="16"
-                   Text="{Binding Path=min}" Width="48">
-
-        </TextBlock>
+        <TextBlock x:Name="text_min" HorizontalAlignment="Left" Margin="132,314,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" FontSize="16"
+                   Text="{Binding min}" Width="48" OpacityMask="#FFDC3A3A"/>
         <TextBlock HorizontalAlignment="Left" Margin="218,314,0,0" TextWrapping="Wrap" Text="平均值" VerticalAlignment="Top" FontSize="16"/>
-        <TextBlock x:Name="text_avr" HorizontalAlignment="Left" Margin="271,313,0,0" TextWrapping="Wrap" 
-                   Text="{Binding Path=avr}" VerticalAlignment="Top" FontSize="16"/>
+        <TextBlock x:Name="text_avr" HorizontalAlignment="Left" Margin="277,314,0,0" TextWrapping="Wrap" 
+                   Text="{Binding avr}" VerticalAlignment="Top" FontSize="16" Width="57"/>
         <TextBlock HorizontalAlignment="Left" Margin="468,313,0,0" TextWrapping="Wrap" Text="最大值" VerticalAlignment="Top" FontSize="16"/>
-        <TextBlock x:Name="text_max" Text="{Binding Path=max}"
-            HorizontalAlignment="Left" Margin="521,313,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16"/>
+        <TextBlock x:Name="text_max" Text="{Binding max}"
+            HorizontalAlignment="Left" Margin="529,314,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Width="47"/>
 
     </Grid>
 </Window>
