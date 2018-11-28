@@ -4,6 +4,13 @@
              xmlns:local="clr-namespace:_6_1"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style x:Key="StyleButton" TargetType="Button">
+            <Setter Property="Control.Foreground" Value="red"/>
+            <Setter Property="Control.Background" Value="Green"/>
+        </Style>
+        <Style x:Key="StyleTextBlock" TargetType="TextBlock">
+            <Setter Property="Control.Foreground" Value="Yellow"/>
+            <Setter Property="Control.Background" Value="Pink"/>
+        </Style>
     </Application.Resources>
 </Application>
