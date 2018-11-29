@@ -28,7 +28,8 @@ c#程序设计教程（第三版）答案 (人民邮电出版社)
 #### [A5.2](https://github.com/laiiihz/csharpprogramming_answer_of_postandtelecom/tree/master/5_2)
 
 ### 第九章和第十章答案
-#### 暂无
+#### [A6.1](https://github.com/laiiihz/csharpprogramming_answer_of_postandtelecom/tree/master/6_1)
+#### [A6.2](https://github.com/laiiihz/csharpprogramming_answer_of_postandtelecom/tree/master/6_2)
 
 ### 第十一章和第十二章答案
 #### [A7.1](https://github.com/laiiihz/csharpprogramming_answer_of_postandtelecom/tree/master/7_1)
