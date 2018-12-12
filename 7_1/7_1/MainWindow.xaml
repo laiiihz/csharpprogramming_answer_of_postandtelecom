@@ -1,0 +1,26 @@
+﻿<Window x:Class="_7_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_7_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        >
+
+
+    <Grid>
+        <Button x:Name="btnGen" Content="产生20个随机数" HorizontalAlignment="Left" Margin="109,49,0,0" VerticalAlignment="Top" Width="120" Height="44" Click="BtnGen_Click"/>
+        <GroupBox x:Name="numBox" Header="20 numbers" HorizontalAlignment="Left" Height="100" Margin="109,121,0,0" VerticalAlignment="Top" Width="568">
+            <TextBlock x:Name="fk" HorizontalAlignment="Left" Margin="10,28,-2,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="548" Height="43"/>
+        </GroupBox>
+        <TextBlock HorizontalAlignment="Left" Margin="109,286,0,0" TextWrapping="Wrap" Text="最小值" VerticalAlignment="Top"/>
+        <TextBox x:Name="minText" HorizontalAlignment="Left" Height="23" Margin="150,285,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="62"  TextChanged="TextBox_TextChanged"
+                 />
+        <TextBlock HorizontalAlignment="Left" Margin="286,289,0,0" TextWrapping="Wrap" Text="平均值" VerticalAlignment="Top"/>
+        <TextBox x:Name="avgText" HorizontalAlignment="Left" Height="23" Margin="327,285,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80"/>
+        <TextBlock HorizontalAlignment="Left" Margin="512,286,0,0" TextWrapping="Wrap" Text="最大值" VerticalAlignment="Top"/>
+        <TextBox x:Name="maxText" HorizontalAlignment="Left" Height="23" Margin="553,285,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+
+    </Grid>
+</Window>

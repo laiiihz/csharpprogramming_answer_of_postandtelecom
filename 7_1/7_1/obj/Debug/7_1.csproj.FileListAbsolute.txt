@@ -1,0 +1,15 @@
+C:\Users\laihz\source\repos\7_1\7_1\bin\Debug\7_1.exe.config
+C:\Users\laihz\source\repos\7_1\7_1\bin\Debug\7_1.exe
+C:\Users\laihz\source\repos\7_1\7_1\bin\Debug\7_1.pdb
+C:\Users\laihz\source\repos\7_1\7_1\obj\Debug\7_1.csprojAssemblyReference.cache
+C:\Users\laihz\source\repos\7_1\7_1\obj\Debug\MainWindow.g.cs
+C:\Users\laihz\source\repos\7_1\7_1\obj\Debug\App.g.cs
+C:\Users\laihz\source\repos\7_1\7_1\obj\Debug\7_1_MarkupCompile.cache
+C:\Users\laihz\source\repos\7_1\7_1\obj\Debug\7_1_MarkupCompile.lref
+C:\Users\laihz\source\repos\7_1\7_1\obj\Debug\MainWindow.baml
+C:\Users\laihz\source\repos\7_1\7_1\obj\Debug\7_1.g.resources
+C:\Users\laihz\source\repos\7_1\7_1\obj\Debug\_7_1.Properties.Resources.resources
+C:\Users\laihz\source\repos\7_1\7_1\obj\Debug\7_1.csproj.GenerateResource.cache
+C:\Users\laihz\source\repos\7_1\7_1\obj\Debug\7_1.csproj.CoreCompileInputs.cache
+C:\Users\laihz\source\repos\7_1\7_1\obj\Debug\7_1.exe
+C:\Users\laihz\source\repos\7_1\7_1\obj\Debug\7_1.pdb
